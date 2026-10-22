@@ -1,0 +1,6 @@
+{
+  "name": "Bando - Quần Áo Thể Thao Đa Nền Tảng",
+  "description": "Website bán quần áo và phụ kiện thể thao Bando, tích hợp công cụ nhập sản phẩm tự động qua link từ các trang web khác, giỏ hàng, đặt hàng và quản lý tài khoản.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
